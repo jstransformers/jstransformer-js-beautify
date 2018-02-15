@@ -15,9 +15,9 @@
 ## API
 
 ```js
-var js-beautify = require('jstransformer')(require('jstransformer-js-beautify'));
+var jsbeautify = require('jstransformer')(require('jstransformer-js-beautify'))
 
-js-beautify.render('var a=3;').body
+jsbeautify.render('var a=3;').body
 //=> 'var a = 3;'
 ```
 
