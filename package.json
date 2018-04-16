@@ -3,7 +3,7 @@
     "js-beautify": "^1.6.1"
   },
   "name": "jstransformer-js-beautify",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "JS Beautifier support for JSTransformers.",
   "keywords": [
     "jstransformer"
